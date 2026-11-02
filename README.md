@@ -2,9 +2,9 @@
 
 > A small online library. Add a book, borrow a book, return a book.
 
-- **Live site:**https://booknook-client-murex.vercel.app
-- **Server API:** https://booknook-server-tlx2.onrender.com *
-- **Server repository:** https://github.com/radhshahmat91/booknook-server
+- **Live site: https://booknook-client-murex.vercel.app
+- **Server API: https://booknook-server-tlx2.onrender.com 
+- **Server repository: https://github.com/radhshahmat91/booknook-server
 
 ## Features
 
